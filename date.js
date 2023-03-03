@@ -47,4 +47,7 @@ exports.getDay = function () {
 
 
 //get day number ( 0 sunday to 6 saturday)
-//var dayNumber = todayDate.getDay();
+//var dayNumber = todayDate.getDay();  
+
+
+//git change test
